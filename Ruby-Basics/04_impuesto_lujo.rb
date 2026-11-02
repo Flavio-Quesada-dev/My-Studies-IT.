@@ -11,4 +11,4 @@ lista_precios.each do |precio|
     puts "✅ Su compra ha sido realizada con éxito."
   end
   puts "-----------------------"
-end
+end-
