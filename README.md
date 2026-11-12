@@ -12,7 +12,7 @@ Llegar a ser **Ingeniero L8 en Shopify**.
 
 ## 📈 Mi Roadmap
 - [ ] Completar cursos de Fundación Carlos Slim (Lógica, Redes y Soporte TI).
-- [ ] Postular a CEEP Pedro Boaretto Neto Cascavel 
+- [x] Postular a CEEP Pedro Boaretto Neto Cascavel 
 - [ ] Ingreso a la Universidad.
 - [ ] Dominar el stack de Shopify (Ruby on Rails + React).
 - [ ] **Posición Senior L8 en Shopify.**
