@@ -5,7 +5,7 @@ En esta carpeta guardo mis prácticas de **JavaScript**, enfocadas en dominar la
 ## 🚀 Objetivos:
 - Aprender lógica de JS moderno.
 - Manipular datos para interfaces de e-commerce.
-- Preparar la base para la UTU y la FING.
+- Preparar la base para el CEEP y la Universidad.
 
 ## 🛠️ Herramientas:
 - **Lenguaje:** JavaScript (ES6+).
